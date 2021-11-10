@@ -1,0 +1,15 @@
+#wrapper {
+    width: 90vw;
+    height: 100vh;
+    text-align: justify;
+}
+h1 {
+    text-align: center;
+}
+div {
+    padding: 20px;
+    text-align: center;
+}
+body {
+    background-color: rgb(200, 224, 224);
+}
